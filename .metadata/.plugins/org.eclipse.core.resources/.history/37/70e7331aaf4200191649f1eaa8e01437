@@ -1,0 +1,5 @@
+package com.lovecoding.multiplethreads;
+
+public class ThreadColor {
+
+}

@@ -1,0 +1,13 @@
+package com.love2code.livelocks;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		final Worker worker1=new Worker("worker1", true);
+		final Worker worker2=new Worker("worker2", true);
+		
+		final SharedResource sharedResource=new SharedResource(Worker);
+		
+	}
+}

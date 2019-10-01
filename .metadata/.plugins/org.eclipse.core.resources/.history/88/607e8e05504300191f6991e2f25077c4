@@ -1,0 +1,5 @@
+package com.lovecoding.concurrentpackage;
+
+public class ThreadColor {
+
+}

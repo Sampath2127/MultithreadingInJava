@@ -1,0 +1,18 @@
+package com.love2code.deadlock;
+
+public class Main {
+	public static Object lock1=new Object();
+	public static Object lock2=new Object();
+	
+	public static void main(String[] args) {
+		
+	}
+}
+
+public static class Thread1 extends Thread{
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		super.run();
+	}
+}

@@ -1,0 +1,22 @@
+package com.love2code.deadlock;
+
+public class Main {
+	public static Object lock1=new Object();
+	public static Object lock2=new Object();
+	
+	public static void main(String[] args) {
+		
+	}
+	private static class Thread1 extends Thread{
+		@Override
+		public void run() {
+			synchronized (lock1) {
+				System.out.println("Thread1 has lock1");
+			}
+			try{
+				Thread.sleep(100);
+			}
+		}
+	}
+}
+

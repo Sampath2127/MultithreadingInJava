@@ -1,0 +1,12 @@
+package com.love2code.deadlock2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	static class PolitePerson{
+		
+	}
+}

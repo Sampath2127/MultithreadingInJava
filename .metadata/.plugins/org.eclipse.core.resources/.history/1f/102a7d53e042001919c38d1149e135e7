@@ -1,0 +1,9 @@
+package com.lovecoding.producerconsumer;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+	}
+
+}

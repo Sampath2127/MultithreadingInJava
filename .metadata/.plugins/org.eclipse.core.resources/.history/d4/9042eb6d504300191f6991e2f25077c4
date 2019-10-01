@@ -1,0 +1,26 @@
+package com.lovecoding.concurrentpackage;
+
+import java.util.List;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+class MyProducer implements Runnable{
+
+	
+	private List<String> buffer;
+	private String color;
+	
+	
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+}

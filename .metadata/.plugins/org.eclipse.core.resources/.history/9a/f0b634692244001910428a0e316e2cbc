@@ -1,0 +1,5 @@
+package com.love2code.livelocks;
+
+public class SharedResource {
+  private Worker owner;
+}

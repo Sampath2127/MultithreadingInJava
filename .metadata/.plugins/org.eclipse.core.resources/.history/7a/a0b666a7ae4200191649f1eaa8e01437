@@ -1,0 +1,18 @@
+package com.lovecoding.multiplethreads;
+
+public class Main {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}
+
+class Countdown{
+	
+	public void countdown(){
+	 String color;
+	 
+	 
+	}
+}

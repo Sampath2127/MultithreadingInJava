@@ -1,0 +1,45 @@
+
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(çû´Ô8¶¼ÓÏ–-H©RMAJORZ
+CODE_SMELL
+xsquid:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8¶¼ÓÏ–-HªRMAJORZBUG
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(§Ë„8¶¼ÓÏ–-H«RMAJORZ
+CODE_SMELL
+q
+squid:S106N"9Replace this use of System.out or System.err by a logger.(öæ¬èıÿÿÿÿ8¶¼ÓÏ–-H¬RMAJORZ
+CODE_SMELL
+Msquid:S2119A"Save and re-use this "Random".(¼İÅf8¶¼ÓÏ–-H­RCRITICALZBUG
+xsquid:S2142Q"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8çËÒ–-H®RMAJORZBUG
+q
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ÑôÃ°ıÿÿÿÿ8¶¼ÓÏ–-H¯RMAJORZ
+CODE_SMELL
+q
+squid:S106q"9Replace this use of System.out or System.err by a logger.(êûµ»şÿÿÿÿ8çËÒ–-H°RMAJORZ
+CODE_SMELL
+k
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ø¸Â/8¶¼ÓÏ–-H±RMAJORZ
+CODE_SMELL
+‘
+squid:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¶¼ÓÏ–-H²RMINORZ
+CODE_SMELL
+q
+squid:S106R"9Replace this use of System.out or System.err by a logger.(€Ã¯ıÿÿÿÿ8¶¼ÓÏ–-H³RMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(®÷÷•şÿÿÿÿ8¶¼ÓÏ–-H´RMAJORZ
+CODE_SMELL
+l
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ğõ·Î8¶¼ÓÏ–-HµRMAJORZ
+CODE_SMELL
+xsquid:S2142t"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8ºàÙÒ–-H¶RMAJORZBUG
+ssquid:S2142("FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¶¼ÓÏ–-H·RMAJORZBUG
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‘Şî½üÿÿÿÿ8¶¼ÓÏ–-H¸RMAJORZ
+CODE_SMELL
+l
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ƒüş¬8ºàÙÒ–-H¹RMAJORZ
+CODE_SMELL
+k
+squid:S106n"9Replace this use of System.out or System.err by a logger.(îèÇ8¶¼ÓÏ–-HºRMAJORZ
+CODE_SMELL

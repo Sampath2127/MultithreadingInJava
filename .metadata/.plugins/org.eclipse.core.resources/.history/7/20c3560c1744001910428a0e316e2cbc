@@ -1,0 +1,21 @@
+package com.love2code.locks;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	private static class Worker implements Runnable{
+		
+		private int runCount =1;
+		private String threadColor;
+		
+		
+		@Override
+		public void run() {
+			
+			
+		}
+	}
+}

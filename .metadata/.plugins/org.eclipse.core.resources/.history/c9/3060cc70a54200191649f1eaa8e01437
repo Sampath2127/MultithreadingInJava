@@ -1,0 +1,19 @@
+package com.lovecoding.threads;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("From main class");
+		
+		Thread appThread=new AppThread();
+		appThread.start();
+		new Thread(){
+			public void run(){
+				System.out.println("Running from annonymous thread..!");
+			}
+		}.start();
+		Thread runnable=new Thread(new MyRunnable());
+		
+		System.out.println("From Main Class Again..!");
+	}
+}

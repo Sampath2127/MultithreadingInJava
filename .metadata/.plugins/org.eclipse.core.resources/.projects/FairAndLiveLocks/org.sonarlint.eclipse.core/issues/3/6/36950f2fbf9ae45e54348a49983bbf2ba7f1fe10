@@ -1,0 +1,13 @@
+
+Œ
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(©§»š8½Ğ–î–-H½RMINORZ
+CODE_SMELL
+ssquid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÉèÂì–-H¾RMAJORZBUG
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Òğøÿÿÿÿ8ºÀ”î–-H¿RMAJORZ
+CODE_SMELL
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(˜€É†şÿÿÿÿ8ÊÖšî–-HÀRMAJORZ
+CODE_SMELL
+^squid:S00108"")Either remove or fill this block of code.(ä ¹€8ÉèÂì–-HÁRMAJORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+xsquid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8—‰ò¬–-HõRMAJORZBUG
+qsquid:S1197:"8Move the array designator from the variable to the type.(µ«‹®øÿÿÿÿ8Ş…¼¬–-HöRMINORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(­íÿïúÿÿÿÿ8—‰ò¬–-H÷RMAJORZ
+CODE_SMELL
+xsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8›È¬–-HøRMAJORZBUG
+q
+squid:S106["9Replace this use of System.out or System.err by a logger.(âí’µşÿÿÿÿ8áÛè¬–-HùRMAJORZ
+CODE_SMELL
+Msquid:S2119@"Save and re-use this "Random".(¼İÅf8¶†Ô¬–-HúRCRITICALZBUG
+xsquid:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8¼á¥­–-HûRMAJORZBUG
+k
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ªîÂF8Ûî¦­–-HüRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êô°¤8›È¬–-HıRMAJORZ
+CODE_SMELL
+xsquid:S2142^"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8Ûî¦­–-HşRMAJORZBUG
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Êô°¤8¼á¥­–-HÿRMAJORZ
+CODE_SMELL
+Osquid:S1700"Rename field "message"(ù„è¿ûÿÿÿÿ8áÓ¦¬–-H€RMAJORZ
+CODE_SMELL
+Msquid:S2119X"Save and re-use this "Random".(¼İÅf8şİÂ¬–-HRCRITICALZBUG

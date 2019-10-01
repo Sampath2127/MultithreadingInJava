@@ -1,0 +1,26 @@
+
+q
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ÌóİÍúÿÿÿÿ8ü½È–-HÔRMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÑôÃ°ıÿÿÿÿ8ü½È–-HÓRMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ğõ·Î8ü½È–-H²RMAJORZ
+CODE_SMELL
+xsquid:S21427"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8ü½È–-H®RMAJORZBUG
+Msquid:S2119*"Save and re-use this "Random".(¼İÅf8ü½È–-H¶RCRITICALZBUG
+k
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ø¸Â/8ü½È–-H±RMAJORZ
+CODE_SMELL
+k
+squid:S106_"9Replace this use of System.out or System.err by a logger.(îèÇ8ü½È–-H³RMAJORZ
+CODE_SMELL
+‘
+squid:S135U"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ü½È–-H¯RMINORZ
+CODE_SMELL
+q
+squid:S106;"9Replace this use of System.out or System.err by a logger.(öæ¬èıÿÿÿÿ8å¢¥Í–-HÒRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H°RMINORZ
+CODE_SMELL

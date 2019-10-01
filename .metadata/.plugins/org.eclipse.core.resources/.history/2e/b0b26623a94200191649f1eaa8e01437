@@ -1,0 +1,14 @@
+package com.lovecoding.threads;
+
+public class AppThread extends Thread{
+
+	@Override
+	public void run() {
+		System.out.println("Running threads from "+ currentThread().getName());
+		try{
+			Thread.sleep(2000);
+		}
+	}
+
+	
+}

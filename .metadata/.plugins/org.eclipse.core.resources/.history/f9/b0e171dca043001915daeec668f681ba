@@ -1,0 +1,8 @@
+package com.love2code.deadlock;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	}
+}

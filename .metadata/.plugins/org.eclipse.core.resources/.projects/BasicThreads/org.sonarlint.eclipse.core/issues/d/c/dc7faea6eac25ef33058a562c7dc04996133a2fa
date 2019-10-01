@@ -1,0 +1,24 @@
+
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÍòš8“€¥¡–-H#RMAJORZ
+CODE_SMELL
+k
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ñÜ¶ñ8Òô®¡–-H*RMAJORZ
+CODE_SMELL
+msquid:S1161":Add the "@Override" annotation above this method signature(“–ış8‡¸–-HRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.( ù—½8ÜÉ²¡–-H,RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó‰˜8Í„–-HRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëøÎ¥8ÜÉ²¡–-H-RMAJORZ
+CODE_SMELL
+ƒsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Ì¸”öşÿÿÿÿ8öÔ¡¡–-HRMAJORZ
+CODE_SMELL
+rsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÉ²¡–-H.RMAJORZBUG
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(üñ²«8æ–†–-HRMAJORZ
+CODE_SMELL

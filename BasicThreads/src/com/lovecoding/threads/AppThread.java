@@ -1,0 +1,18 @@
+package com.lovecoding.threads;
+
+public class AppThread extends Thread{
+
+	@Override
+	public void run() {
+		System.out.println("Running threads from "+ currentThread().getName());
+		try{
+			Thread.sleep(5000);
+		}catch(InterruptedException ex){
+			System.out.println("Another thread interuupted me - message from "+ currentThread().getName());
+			return;
+		}
+		System.out.println("Time out I'm awake..!");
+	}
+
+	
+}
